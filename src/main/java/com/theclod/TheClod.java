@@ -7,6 +7,7 @@ import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+
 public class TheClod implements ModInitializer {
 	public static final String MOD_ID = "the-clod";
 
@@ -22,6 +23,7 @@ public class TheClod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		TheClodItems.initialize();
 	}
 
 	public static Identifier id(String path) {

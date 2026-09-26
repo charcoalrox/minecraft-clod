@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:egg",
+    "minecraft:cooked_chicken"
+  ],
+  "result": {
+    "id": "the-clod:ten_piece_mcchicken",
+    "count": 3
+  }
+}

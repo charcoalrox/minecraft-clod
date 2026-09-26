@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "the-clod:big_mac",
+    "the-clod:large_fry",
+    "minecraft:milk_bucket"
+  ],
+  "result": {
+    "id": "the-clod:happy_meal"
+  }
+}

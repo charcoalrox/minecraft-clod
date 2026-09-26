@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:baked_potato",
+    "minecraft:baked_potato",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "the-clod:large_fry"
+  }
+}

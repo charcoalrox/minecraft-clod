@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "Buo",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:bread",
+    "B": "minecraft:beef",
+    "u": "minecraft:milk_bucket",
+    "o": "minecraft:egg"
+  },
+  "result": {
+    "id": "the-clod:big_mac"
+  }
+}
