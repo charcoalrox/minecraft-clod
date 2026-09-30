@@ -1,0 +1,91 @@
+// Items
+    // Food
+        ✅ - Mcdonalds French fries
+        ✅ - Big Mac
+        ✅ - 10 pc Nuggies
+        ✅ - Happy Meal // !!prerequisites not done!!
+            ❌ You set it down. Takes 4 bites to finish
+            ❌ Drops toy when done
+
+        ✅ - Peanuts
+        ✅ - Popcorn
+
+    // Potions
+        - Dissappearing Ink (Invisible)
+        - Helium (Dizzy + slow). Changes dialogue to have (high pitched) if that's possible
+        - Roach
+
+    // armor
+        - Clown Mask
+        - Clown Shoes
+            Like red leather shoes but twice as long
+            if I can change the walking noises then they squeak
+        - Clown Nose
+            if I can, right clicking someone with this makes them squeak
+        - Clown hat 
+            small, no benefits
+            tiny green bowler hatch
+
+    // Weapons(?)
+        - Cream Pie (but these should be throwable so idk if they're food)
+        - Gun that has a little flag that goes "bang"
+
+
+// Blocks
+    - Bouncy Castle Bricks (all colors)
+    - Black Netting (for bouncy castles)
+    - Bouncy Castle Walls
+        Like bricks but thinner. For cheaper boucy castles (adds free tecture)
+    - Bouncy Castle Stairs
+        Now we may make complex bouncy castle courses
+
+    - Differently colored birch tree leaves
+    - Streamers
+
+    - Mcdonalds toys (gotten by finishing a happy meal)
+
+
+// Fluid 
+    - Clown Juice (sprite)
+
+
+// Entities
+    - balloon dog - idk yet. Maybe a dog that follows the player and uses dog ai? Spawned by finding cleggs and throwing them
+
+    - Clown car - fits you plus 3 villagers. Destroyed immediately in water, drives on land. I can maybe use boats for this since it's gonna basically be a boat with more seats
+
+
+// Alternate Climension <- impossible goal
+
+    I have better notes for this on my phone so this needs to be updated
+
+    Clown dimension - This is way too optimistic. It's not gonna happen
+        Portal - TBA
+
+        Sky islands with clown serpents in the sky
+        clown juice for the liquid that spawns everywhere
+            I forgot this was a mod. It's clear and bubbly because it's mcdonalds sprite
+            
+
+        bouncy castle villages on floating islands
+
+        naturally spawning balloon dogs
+
+        Clown villages?
+            I like that meme about the clown life cycle. Maybe cave clowns with cleggs that hatch if you break them and regular villagers in the clillages
+            houses are red aqnd white terracotta
+            instead of wells they have  tiny pools with diving boards
+
+        circus rats
+        tents
+
+        flowers that can spray water
+
+        circus tent skybox, dar oak planks instead of dirt
+        deep slate caves with clowns
+
+        if i can do roler coaster, tunnel of love, or merry go round chunks, bonus
+
+        some sort of boss spawn. shoots hoops of fire, flies, , charges like bull. called the spectacle
+
+        i want cloudsa but weird clouds. maybe theyre pink and elephant shaped

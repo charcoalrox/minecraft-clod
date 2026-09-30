@@ -24,6 +24,7 @@ public class TheClod implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 		TheClodItems.initialize();
+		TheClodBlocks.initialize();
 	}
 
 	public static Identifier id(String path) {

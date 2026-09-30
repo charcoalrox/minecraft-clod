@@ -4,6 +4,13 @@
   "item.the-clod.large_fry": "Large Fry",
   "item.the-clod.happy_meal": "Happy Meal",
   "item.the-clod.circus_peanuts": "Circus Peanuts",
-  "item.the-clod.circus_popcorn": "Circus Popcorn"
+  "item.the-clod.circus_popcorn": "Circus Popcorn",
 
+  "block.the-clod.bouncy_castle_block": "Bouncy Castle Block",
+  "block.the-clod.ball_pit_block": "Ball Pit Block",
+  
+  "block.the-clod.bouncy_castle_wall": "Bouncy Castle Wall",
+    "block.the-clod.bouncy_castle_netting": "Bouncy Castle Netting",
+
+  "block.the-clod.bouncy_castle_stair": "Bouncy Castle Stair"
 }

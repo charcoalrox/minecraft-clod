@@ -6,26 +6,11 @@ import net.fabricmc.fabric.api.creativetab.v1.CreativeModeTabEvents;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceKey;
-import net.minecraft.world.effect.MobEffectInstance;
-import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.component.Consumable;
-import net.minecraft.world.item.component.Consumables;
-import net.minecraft.world.item.consume_effects.ApplyStatusEffectsConsumeEffect;
 
 public class TheClodItems {
-
-    public static final Consumable POISON_FOOD_CONSUMABLE_COMPONENT = Consumables.defaultFood()
-            // The duration is in ticks, 20 ticks = 1 second
-            .onConsume(new ApplyStatusEffectsConsumeEffect(new MobEffectInstance(MobEffects.POISON, 6 * 20, 1), 1.0f))
-            .build();
-    public static final FoodProperties POISON_FOOD_COMPONENT = new FoodProperties.Builder()
-            .alwaysEdible()
-            .build();
-    // new Item.Properties().food(new FoodProperties.Builder().build())
-
 
     public static final Item TEN_PIECE_MCCHICKEN = register(
         TheClodItemIds.TEN_PIECE_MCCHICKEN,
