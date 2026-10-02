@@ -1,0 +1,40 @@
+{
+  "multipart": [
+    {
+      "when": { "up": "true" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_post_light_blue" }
+    },
+    {
+      "when": { "north": "low" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "uvlock": true }
+    },
+    {
+      "when": { "east": "low" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "y": 90, "uvlock": true }
+    },
+    {
+      "when": { "south": "low" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "y": 180, "uvlock": true }
+    },
+    {
+      "when": { "west": "low" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "y": 270, "uvlock": true }
+    },
+    {
+      "when": { "north": "tall" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "uvlock": true }
+    },
+    {
+      "when": { "east": "tall" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "y": 90, "uvlock": true }
+    },
+    {
+      "when": { "south": "tall" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "y": 180, "uvlock": true }
+    },
+    {
+      "when": { "west": "tall" },
+      "apply": { "model": "the-clod:block/bouncy_castle_wall_side_light_blue", "y": 270, "uvlock": true }
+    }
+  ]
+}

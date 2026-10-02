@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "the-clod:block/bouncy_castle_block_cyan",
+    "top": "the-clod:block/bouncy_castle_block_cyan",
+    "side": "the-clod:block/bouncy_castle_block_cyan"
+  }
+}

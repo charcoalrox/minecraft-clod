@@ -1,0 +1,21 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "the-clod:block/bouncy_castle_block_gray",
+    "all": "the-clod:block/bouncy_castle_block_gray"
+  },
+  "elements": [
+    {
+      "from": [5, 0, 0],
+      "to": [11, 16, 8],
+      "faces": {
+        "down":  { "uv": [5, 8, 11, 16], "texture": "#all", "cullface": "down" },
+        "up":    { "uv": [5, 8, 11, 16], "texture": "#all" },
+        "north": { "uv": [5, 3, 11, 24], "texture": "#all" },
+        "south": { "uv": [5, 3, 11, 24], "texture": "#all" },
+        "west":  { "uv": [0, 3, 8, 24], "texture": "#all" },
+        "east":  { "uv": [8, 3, 16, 24], "texture": "#all" }
+      }
+    }
+  ]
+}

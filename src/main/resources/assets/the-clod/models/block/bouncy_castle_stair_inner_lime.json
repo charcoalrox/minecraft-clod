@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "the-clod:block/bouncy_castle_block_lime",
+    "top": "the-clod:block/bouncy_castle_block_lime",
+    "side": "the-clod:block/bouncy_castle_block_lime"
+  }
+}

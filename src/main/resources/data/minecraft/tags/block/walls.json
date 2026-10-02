@@ -1,7 +1,22 @@
 {
   "replace": false,
   "values": [
-    "the-clod:bouncy_castle_wall",
+    "the-clod:bouncy_castle_wall_black",
+    "the-clod:bouncy_castle_wall_blue",
+    "the-clod:bouncy_castle_wall_brown",
+    "the-clod:bouncy_castle_wall_cyan",
+    "the-clod:bouncy_castle_wall_dark_gray",
+    "the-clod:bouncy_castle_wall_gray",
+    "the-clod:bouncy_castle_wall_green",
+    "the-clod:bouncy_castle_wall_light_blue",
+    "the-clod:bouncy_castle_wall_lime",
+    "the-clod:bouncy_castle_wall_magenta",
+    "the-clod:bouncy_castle_wall_orange",
+    "the-clod:bouncy_castle_wall_pink",
+    "the-clod:bouncy_castle_wall_purple",
+    "the-clod:bouncy_castle_wall_red",
+    "the-clod:bouncy_castle_wall_white",
+    "the-clod:bouncy_castle_wall_yellow",
     "the-clod:bouncy_castle_netting"
   ]
 }
